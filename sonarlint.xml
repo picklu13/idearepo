@@ -1,0 +1,41 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="squid:S00118" />
+        <option value="squid:S1854" />
+        <option value="squid:S1996" />
+        <option value="squid:S2095" />
+        <option value="squid:S2187" />
+      </set>
+    </option>
+    <option name="includedRules">
+      <set>
+        <option value="squid:ClassCyclomaticComplexity" />
+        <option value="squid:EmptyFile" />
+        <option value="squid:RightCurlyBraceSameLineAsNextBlockCheck" />
+        <option value="squid:S00103" />
+        <option value="squid:S00121" />
+        <option value="squid:S1067" />
+        <option value="squid:S1200" />
+        <option value="squid:S1244" />
+        <option value="squid:S134" />
+        <option value="squid:S1448" />
+        <option value="squid:S1698" />
+        <option value="squid:S1820" />
+        <option value="squid:S1939" />
+        <option value="squid:S2039" />
+        <option value="squid:S2141" />
+        <option value="squid:S2208" />
+        <option value="squid:S2250" />
+        <option value="squid:S2972" />
+        <option value="squid:S3030" />
+        <option value="squid:S3052" />
+        <option value="squid:S3340" />
+        <option value="squid:S4266" />
+        <option value="squid:S4276" />
+        <option value="squid:TrailingCommentCheck" />
+      </set>
+    </option>
+  </component>
+</application>
