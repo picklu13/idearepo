@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>16</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -30,7 +30,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -46,6 +46,14 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'⇧⌘K'</ShortCut>
           <Description>Push...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild ...pipelines.inventory'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Rebuild ...pipelines.inventory'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
