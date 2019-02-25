@@ -110,7 +110,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>37</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'InventoryPipelineHandlerTest'">
@@ -182,7 +182,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'InventoryDataTest.validateResult'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'NetflowEssentialPipelineTest.pipelineTest (1)'">
