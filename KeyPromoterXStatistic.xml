@@ -193,6 +193,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Question1Test.extractsNamesAndOriginsOfArtists'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Question1Test.extractsNamesAndOriginsOfArtists'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Terminal">
         <Item>
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
