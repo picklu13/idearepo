@@ -1,4 +1,9 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <option name="REPLACE_INSTANCEOF" value="true" />
   <option name="REPLACE_CAST" value="true" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <JavaCodeStyleSettings>
+    <option name="REPLACE_INSTANCEOF" value="true" />
+    <option name="REPLACE_CAST" value="true" />
+  </JavaCodeStyleSettings>
 </code_scheme>
