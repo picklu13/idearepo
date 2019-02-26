@@ -33,12 +33,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'validateResult()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'validateResult()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>306</Count>
+          <Count>309</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -46,7 +54,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -54,7 +62,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>5</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -110,7 +118,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>56</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'InventoryPipelineHandlerTest'">
@@ -169,12 +177,44 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'InventoryDataTest.alidateResult (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'InventoryDataTest.alidateResult (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'InventoryDataTest.alidateResult'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'InventoryDataTest.alidateResult'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'InventoryDataTest.validateResult (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'InventoryDataTest.validateResult (1)'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'InventoryDataTest.validateResult (2)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'InventoryDataTest.validateResult (2)'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'InventoryDataTest.validateResult (3)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'InventoryDataTest.validateResult (3)'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'InventoryDataTest.validateResult'">
@@ -182,7 +222,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'InventoryDataTest.validateResult'</Description>
-          <Count>5</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'NetflowEssentialPipelineTest.pipelineTest (1)'">
@@ -222,7 +262,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>22</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
     </option>
