@@ -73,11 +73,27 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Project Structure...">
+        <Item>
+          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
+          <ShortCut>'⌘;'</ShortCut>
+          <Description>Project Structure...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Push...">
         <Item>
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'⇧⌘K'</ShortCut>
           <Description>Push...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild ...-genericpipelinelib'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Rebuild ...-genericpipelinelib'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -95,6 +111,14 @@
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Recompile '...toryDataToJSON.java'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'NetworkDevice.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Recompile 'NetworkDevice.java'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
