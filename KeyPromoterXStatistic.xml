@@ -289,12 +289,20 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'InventoryPipelineHandlerTest.deleteInventoryTest (2)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'InventoryPipelineHandlerTest.deleteInventoryTest (2)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'InventoryPipelineHandlerTest.deleteInventoryTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'InventoryPipelineHandlerTest.deleteInventoryTest'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'InventoryPipelineHandlerTest.updatePacketTest'">
