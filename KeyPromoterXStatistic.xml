@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>788</Count>
+          <Count>789</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -710,6 +710,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Question2Test.internal'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TopologyPipelineHandlerTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'TopologyPipelineHandlerTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
