@@ -1,0 +1,164 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <option name="BUILD_PROCESS_HEAP_SIZE" value="4096" />
+      </component>
+      <component name="CompilerWorkspaceConfiguration">
+        <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+      </component>
+      <component name="DefaultGradleProjectSettings">
+        <option name="delegatedBuild" value="true" />
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/code-reviews" value="PREVIEW" />
+            <entry key="$USER_HOME$/dna/ndp" value="PREVIEW" />
+            <entry key="$USER_HOME$/dna/ndp-base-pipelines" value="PREVIEW" />
+            <entry key="$USER_HOME$/dna/ndp-base-pipelines-april" value="PREVIEW" />
+            <entry key="$USER_HOME$/dna/ndp-data-pipeline" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/ndp-base-pipelines" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Internationalization</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Security</id>
+              </State>
+              <State>
+                <id>Android Lint for Kotlin</id>
+              </State>
+              <State>
+                <id>CorrectnessLintAndroid</id>
+              </State>
+              <State>
+                <id>Gradle</id>
+              </State>
+              <State>
+                <id>Kotlin</id>
+              </State>
+              <State>
+                <id>LintAndroid</id>
+              </State>
+              <State>
+                <id>Probable bugsGradle</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.0" />
+        <property name="settings.editor.selected.configurable" value="reference.settings.project.gradle.running" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet">
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="TEST_OBJECT" value="class" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG">
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file enabled="true" id="idea.log" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
